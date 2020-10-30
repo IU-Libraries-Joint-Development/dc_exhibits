@@ -1,0 +1,14 @@
+secrets
+docker.secrets
+.git
+.dockerignore
+tmp/*
+log/*
+db/*.sqlite3
+coverage
+spec/tmp
+
+.idea
+node_modules
+public/uv
+public/assets

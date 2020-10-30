@@ -1,0 +1,2 @@
+RAILS_SERVE_STATIC_FILES=true
+RAILS_ENV=production
